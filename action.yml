@@ -1,0 +1,13 @@
+name: mitmproxy
+description: |
+  A try to understand cache and artifacts upload API without reading overengineered Node.js bullshit.
+author: KOLANICH
+inputs: 
+  github_token:
+    description: "The GITHUB_TOKEN secret"
+runs:
+  using: "node12" # GitHub disallows to use anything other there
+  main: "startBash.js" # ECMA modules are not yet supported by GH Actions
+branding:
+  icon: check-square
+  color: green

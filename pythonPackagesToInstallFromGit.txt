@@ -1,0 +1,7 @@
+https://github.com/python-hyper/rfc3986
+https://github.com/python-hyper/hyperframe
+https://github.com/python-hyper/h11
+https://github.com/python-hyper/hpack
+https://github.com/python-hyper/h2
+https://github.com/kaitai-io/kaitai_struct_python_runtime
+https://github.com/mitmproxy/mitmproxy
